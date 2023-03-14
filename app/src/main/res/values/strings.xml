@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScheduleEventEx</string>
+    <string name="stop_watch">Stop Watch</string>
+    <string name="start">Start</string>
+    <string name="_0">0</string>
+    <string name="count_down">Count Down</string>
+    <string name="reset">Reset</string>
+    <string name="slot_machine">Slot Machine</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+</resources>
